@@ -1,5 +1,7 @@
 # Machine Learning Training Pipeline with Weights & Biases Integration
 
+[Demonstration Video Link](https://youtu.be/3wwte5sSnCM?si=NKCX09EMTSSrlE5V)
+
 ## Introduction to the Pipeline
 
 This repository contains a comprehensive machine learning training pipeline built with PyTorch and integrated with Weights & Biases (wandb) for experiment tracking. The pipeline is designed to train image classification models on the CIFAR-10 dataset, with support for various model architectures and hyperparameters. The pipeline includes a standard training workflow (`train.py`) and an automated hyperparameter tuning component (`hypa_tuning.py`) to find optimal model configurations.
