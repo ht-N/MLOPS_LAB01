@@ -79,10 +79,10 @@ Weights & Biases not only helps with tracking experiments but also assists in ma
 
 ```bash
 # Create a new conda environment
-conda create -n ml-pipeline python=3.11
+conda create -n MLOPS_TH01 python=3.11
 
 # Activate the environment
-conda activate ml-pipeline
+conda activate MLOPS_TH01
 
 # Install PyTorch with CUDA support (adjust according to your CUDA version, mine is 12.6)
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
